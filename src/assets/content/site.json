@@ -1,0 +1,183 @@
+{
+  "brand": {
+    "name": "ERRANTE",
+    "tagline": "Coctelería de autor y barras móviles exclusivas para eventos",
+    "description": "Transformamos cualquier celebración en una experiencia sensorial inolvidable con mixología de vanguardia, barras de diseño y un servicio impecable.",
+    "phone": "+34 910 200 300",
+    "email": "hola@errante-cocktails.com",
+    "location": "Madrid & cobertura nacional en toda España",
+    "hours": "Lunes a Domingo: 10:00 - 20:00 (Atención al cliente)",
+    "instagram": "https://instagram.com/errante.cocktails",
+    "whatsapp": "https://wa.me/34910200300"
+  },
+  "hero": {
+    "badge": "EXPERIENCIA PREMIUM & ALTA COCTELERÍA",
+    "title": "COCTELERÍA PARA EVENTOS",
+    "subtitle": "Creamos momentos memorables a través de mixología de autor, barras móviles de diseño y hospitalidad de primer nivel.",
+    "ctaPrimary": "Ver carta de cócteles",
+    "ctaSecondary": "Solicitar presupuesto"
+  },
+  "features": [
+    {
+      "title": "Barra de Cócteles de Diseño",
+      "tagline": "Elegancia sobre ruedas",
+      "description": "Estructuras modulares con acabados en madera noble, latón cepillado e iluminación cálida que se integran en cualquier espacio.",
+      "icon": "cocktail"
+    },
+    {
+      "title": "Eventos a Medida",
+      "tagline": "Adaptado a cada celebración",
+      "description": "Desde bodas íntimas hasta macrofestivales y galas de empresa. Cartas personalizadas según el estilo de tu celebración.",
+      "icon": "calendar"
+    },
+    {
+      "title": "Servicio Personalizado & Integral",
+      "tagline": "Sin preocupaciones",
+      "description": "Nos encargamos de todo: bartenders profesionales, cristalería fina, hielo artesanal tallado, insumos frescos y gestión de residuos.",
+      "icon": "sparkles"
+    }
+  ],
+  "steps": [
+    {
+      "number": "01",
+      "title": "Cuéntanos tu evento",
+      "description": "Indícanos la fecha, el lugar, el número estimado de invitados y el tipo de celebración que deseas organizar.",
+      "highlight": "Respuesta en menos de 24 horas"
+    },
+    {
+      "number": "02",
+      "title": "Diseñamos la propuesta",
+      "description": "Seleccionamos la carta de cócteles, adaptamos las opciones con y sin alcohol y definimos la estética de la barra.",
+      "highlight": "Degustación previa disponible"
+    },
+    {
+      "number": "03",
+      "title": "Montamos y preparamos",
+      "description": "Llegamos con antelación suficiente para montar la barra, enfriar la cristalería y alistar todos los botánicos frescos.",
+      "highlight": "Puntualidad e higiene absoluta"
+    },
+    {
+      "number": "04",
+      "title": "Tú disfrutas del evento",
+      "description": "Nuestro equipo de mixólogos atiende a tus invitados con rapidez, simpatía y maestría en cada copa servida.",
+      "highlight": "Experiencia inolvidable garantizada"
+    }
+  ],
+  "team": [
+    {
+      "name": "Mateo Valdés",
+      "role": "Head Bartender & Fundador",
+      "bio": "Más de 14 años liderando coctelerías de renombre internacional. Apasionado por las infusiones botánicas y la reinterpretación de clásicos.",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=600&q=80",
+      "specialty": "Técnicas de clarificación y destilados añejos"
+    },
+    {
+      "name": "Lucía Arrieta",
+      "role": "Directora Creativa de Mixología",
+      "bio": "Especialista en botánica y cordiales caseros. Desarrolla las propuestas de maridaje y la carta de mocktails sin alcohol.",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80",
+      "specialty": "Mocktails gastronómicos y sirope de autor"
+    },
+    {
+      "name": "Javier Morales",
+      "role": "Responsable de Operaciones y Montaje",
+      "bio": "Garantiza que la logística, tiempos de despacho y la escenografía de cada barra móvil funcionen a la perfección.",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80",
+      "specialty": "Logística de grandes eventos y velocidad"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "Barra de autor en boda de atardecer",
+      "category": "Bodas",
+      "imageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "tall"
+    },
+    {
+      "id": "g2",
+      "title": "Hielo cristalino tallado a mano con flores",
+      "category": "Detalles",
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "g3",
+      "title": "Servicio de alta velocidad en gala corporativa",
+      "category": "Corporativo",
+      "imageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "wide"
+    },
+    {
+      "id": "g4",
+      "title": "Paloma Errante con borde salino volcánico",
+      "category": "Cócteles",
+      "imageUrl": "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "square"
+    },
+    {
+      "id": "g5",
+      "title": "Montaje de barra móvil iluminada",
+      "category": "Barras",
+      "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "wide"
+    },
+    {
+      "id": "g6",
+      "title": "Smoked Old Fashioned servido bajo campana de humo",
+      "category": "Cócteles",
+      "imageUrl": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=800&q=80",
+      "aspectRatio": "tall"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Contratamos a Errante para nuestra boda y fue sin duda el gran acierto de la noche. Los invitados siguen hablando del Espresso Martini y del servicio tan atento.",
+      "author": "Elena & Gonzalo",
+      "event": "Boda en Finca El Regajal (Aranjuez)",
+      "date": "Septiembre 2025",
+      "rating": 5
+    },
+    {
+      "quote": "Impecable servicio para nuestro evento de lanzamiento anual con 400 directivos. Cero colas, cócteles de nivel estrella Michelin y un montaje visual espectacular.",
+      "author": "Carlos Mendoza",
+      "event": "Director de Marketing, Tech Summit",
+      "date": "Noviembre 2025",
+      "rating": 5
+    },
+    {
+      "quote": "La atención al detalle con el hielo tallado y los cócteles sin alcohol marcaron una diferencia enorme. Son auténticos profesionales del sector.",
+      "author": "Beatriz Soler",
+      "event": "Celebración Privada 40 Aniversario",
+      "date": "Enero 2026",
+      "rating": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Con cuánta antelación debemos reservar el servicio?",
+      "answer": "Recomendamos reservar con un mínimo de 3 a 6 meses de antelación para bodas y temporada alta (mayo a octubre). Para eventos corporativos y privados, solemos tener mayor flexibilidad con 2-4 semanas de margen.",
+      "category": "Reservas"
+    },
+    {
+      "question": "¿Qué incluye exactamente el presupuesto?",
+      "answer": "Nuestros presupuestos son 'llave en mano' (todo incluido): barra móvil de diseño, bartenders uniformados, cristalería premium, hielo artesanal, todos los destilados, licores, frutas, botánicos, menús de diseño, montaje, desmontaje y recogida completa.",
+      "category": "Servicio"
+    },
+    {
+      "question": "¿Podemos personalizar los cócteles y la carta?",
+      "answer": "Absolutamente. Diseñamos cartas personalizadas con tus sabores preferidos e incluso podemos crear cócteles 'signature' con el nombre de los novios o los colores de una marca.",
+      "category": "Carta"
+    },
+    {
+      "question": "¿Ofrecéis opciones sin alcohol?",
+      "answer": "Sí, nuestros Mocktails de autor están elaborados con destilados botánicos 0.0%, infusiones y cordiales caseros. Tienen la misma complejidad y elegancia visual que cualquier cóctel con alcohol.",
+      "category": "Carta"
+    },
+    {
+      "question": "¿Qué requisitos de espacio y electricidad necesitáis?",
+      "answer": "Solo necesitamos un espacio plano de aproximadamente 2.5 x 2 metros para una barra estándar y una toma de corriente convencional (220V) cercana para la iluminación y refrigeración. Nuestras barras son totalmente autónomas en agua.",
+      "category": "Logística"
+    }
+  ]
+}

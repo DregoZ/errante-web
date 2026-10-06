@@ -1,0 +1,109 @@
+[
+  {
+    "id": "bodas",
+    "slug": "bodas",
+    "type": "bodas",
+    "title": "Bodas Exclusivas",
+    "subtitle": "Una barra de coctelería nupcial inolvidable",
+    "description": "Diseñamos un servicio a medida para el cóctel de bienvenida, el banquete y la fiesta posterior. Experiencia visual y sensorial cuidada al detalle.",
+    "longDescription": "El día de vuestra boda merece momentos únicos. Desde cócteles personalizados con los nombres de la pareja hasta una puesta en escena elegante con barras modulares de madera noble y latón. Ofrecemos servicio continuo con cristalería fina de cristal labrado, hielo cristalino tallado a mano y bartenders uniformados con estilo.",
+    "badge": "El más solicitado",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "capacity": "De 40 a 500+ invitados",
+    "recommendedDuration": "3 a 6 horas de barra libre de cócteles",
+    "highlights": [
+      "Cócteles nupciales creados a medida con la historia de los novios",
+      "Montaje de barra móvil con iluminación decorativa ambiental",
+      "Menús impresos en papel de algodón texturizado",
+      "Opciones con y sin alcohol (Mocktails de autor)"
+    ],
+    "includes": [
+      "Barra móvil modular de diseño elegante (acabados premium)",
+      "Equipo de mixólogos profesionales titulados",
+      "Cristalería completa (Coupé, Highball, Rocks, Nick & Nora)",
+      "Hielo transparente tallado artesanalmente",
+      "Alcohol premium, licores de autor, siropes caseros e insumos frescos",
+      "Montaje, desmontaje, limpieza y gestión de residuos"
+    ],
+    "recommendedCocktails": ["clover-club-frambuesa", "negroni-errante", "paloma-mediterranea", "virgin-hibiscus-fizz"]
+  },
+  {
+    "id": "corporativos",
+    "slug": "eventos-corporativos",
+    "type": "corporativos",
+    "title": "Eventos Corporativos & Galas",
+    "subtitle": "Impacto de marca y sofisticación para tus eventos de empresa",
+    "description": "Lanzamientos de producto, aniversarios corporativos, galas benéficas y cenas de empresa con un servicio ágil, impecable y de alta gama.",
+    "longDescription": "Potencia la imagen de tu marca con una experiencia de coctelería premium. Adaptamos la paleta de colores y el menú al branding del cliente corporativo. Velocidad de servicio calculada para evitar colas, profesionalidad rigurosa y un trato exquisito para clientes y directivos.",
+    "badge": "Branding & Empresa",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1200&q=80",
+    "capacity": "De 50 a 1000+ asistentes",
+    "recommendedDuration": "2 a 5 horas adaptables a la agenda corporativa",
+    "highlights": [
+      "Personalización de cócteles con colores corporativos e impresiones en papel de arroz",
+      "Alto rendimiento y flujo ágil de despacho en picos de asistencia",
+      "Facturación detallada y coordinación logística completa con venues",
+      "Mocktails sofisticados para eventos diurnos o jornadas de trabajo"
+    ],
+    "includes": [
+      "Barras con posibilidad de vinilado o integración de logo de empresa",
+      "Bartenders con uniforme corporativo impecable",
+      "Menú digital mediante QR personalizado y cartas de mesa",
+      "Cristalería de cristal templado irrompible o cristal fino según venue",
+      "Seguro de responsabilidad civil y cumplimiento de normativa sanitaria"
+    ],
+    "recommendedCocktails": ["smoked-old-fashioned", "citrus-botanical-zero", "basil-smash-botanico", "espresso-martini-velvet"]
+  },
+  {
+    "id": "privados",
+    "slug": "fiestas-privadas",
+    "type": "privados",
+    "title": "Fiestas & Celebraciones Privadas",
+    "subtitle": "Tu coctelería favorita en tu casa, villa, jardín o finca privada",
+    "description": "Cumpleaños, aniversarios, fiestas temáticas o reuniones exclusivas donde tú solo te preocupas de disfrutar como un invitado más.",
+    "longDescription": "Transformamos tu terraza, jardín o salón en el speakeasy más exclusivo. Llevamos todo lo necesario para que no tengas que preocuparte por compras, hielos ni limpieza. Creamos un ambiente distendido donde los invitados pueden interactuar con los bartenders y descubrir nuevos sabores.",
+    "badge": "Ambiente íntimo",
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
+    "capacity": "De 15 a 150 invitados",
+    "recommendedDuration": "3 a 5 horas",
+    "highlights": [
+      "Formato compacto adaptable a espacios reducidos o exteriores",
+      "Interacción con los bartenders y explicación de cada receta",
+      "Carta dinámica con cócteles refrescantes y tragos digestivos",
+      "Flexibilidad total en horarios y preferencias musicales"
+    ],
+    "includes": [
+      "Barra compacta plegable de diseño minimalista",
+      "Mixólogo asignado para el servicio exclusivo de tus invitados",
+      "Todo el menaje, ingredientes, frutas frescas y hielo",
+      "Servicio de recogida impecable tras el evento"
+    ],
+    "recommendedCocktails": ["paloma-mediterranea", "passion-fruit-sour", "spicy-mezcalita-oaxaca", "caribbean-tiki-punch"]
+  },
+  {
+    "id": "festivales",
+    "slug": "festivales-popups",
+    "type": "festivales",
+    "title": "Festivales, Ferias & Pop-ups",
+    "subtitle": "Gran volumen con la misma calidad de alta coctelería",
+    "description": "Estaciones de coctelería rápida y estética para festivales de música, ferias gastronómicas, eventos deportivos y pop-up stores.",
+    "longDescription": "Diseñado para eventos de gran afluencia donde el ritmo es vertiginoso sin sacrificar el sabor ni la estética. Cócteles pre-batcheados artesanalmente con ingredientes naturales, sistemas de servicio en grifo (draft cocktails) y cristalería compostable premium.",
+    "badge": "Gran afluencia",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+    "capacity": "200 a 3000+ personas",
+    "recommendedDuration": "Jornadas completas o multijornada",
+    "highlights": [
+      "Velocidad de despacho récord: menos de 20 segundos por copa",
+      "Vasos reutilizables o compostables de polímero vegetal",
+      "Sistemas de cobro TPV integrados o soporte cashless",
+      "Estructuras modulares para intemperie y carpas"
+    ],
+    "includes": [
+      "Múltiples estaciones de coctelería simultáneas",
+      "Supervisores de sala y equipo de soporte logístico continuo",
+      "Cámaras de frío móviles y abastecimiento continuo de hielo",
+      "Señalética e iluminación LED integrada"
+    ],
+    "recommendedCocktails": ["paloma-mediterranea", "caribbean-tiki-punch", "virgin-hibiscus-fizz", "basil-smash-botanico"]
+  }
+]
