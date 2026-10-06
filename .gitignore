@@ -1,6 +1,10 @@
+# Compiled output
+/dist
 /tmp
 /out-tsc
+/.angular
 
+# Node dependencies
 /node_modules
 npm-debug.log*
 yarn-debug.log*
@@ -8,4 +12,16 @@ yarn-error.log*
 /.pnp
 .pnp.js
 
+# IDEs and editors
+.idea/
 .vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
