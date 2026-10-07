@@ -19,7 +19,7 @@ import { RouterModule } from '@angular/router';
             </svg>
           </span>
           <div class="logo-text-group">
-            <span class="brand-title">ERRANTE</span>
+            <span class="brand-title">LA ERRANTE</span>
             <span class="brand-sub">COCTELERÍA PARA EVENTOS</span>
           </div>
         </a>

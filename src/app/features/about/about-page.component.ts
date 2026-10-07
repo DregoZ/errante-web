@@ -33,10 +33,10 @@ import { CtaSectionComponent } from '../../shared/components/cta-section/cta-sec
         <div class="container">
           <div class="manifesto-grid">
             <div class="manifesto-text">
-              <span class="eyebrow-badge">EL ORIGEN DE ERRANTE</span>
+              <span class="eyebrow-badge">EL ORIGEN DE LA ERRANTE</span>
               <h2 class="manifesto-heading">Coctelería nómada, técnica rigurosa</h2>
               <p class="manifesto-p">
-                Errante nació tras años de experiencia en las barras más emblemáticas de Madrid, Londres y Barcelona. Nos dimos cuenta de que en los eventos y bodas la coctelería solía descuidarse con bebidas industriales y servicio precipitado.
+                La Errante nació tras años de experiencia en las barras más emblemáticas de Madrid, Londres y Barcelona. Nos dimos cuenta de que en los eventos y bodas la coctelería solía descuidarse con bebidas industriales y servicio precipitado.
               </p>
               <p class="manifesto-p">
                 Decidimos romper esa inercia diseñando un formato nómada pero sin renunciar a ninguna de las exigencias de un bar de alta coctelería: hielo puro cristalino tallado a mano, destilados premium de pequeños alambiques, frutas de temporada recién exprimidas y una cristalería impecable.
@@ -66,7 +66,7 @@ import { CtaSectionComponent } from '../../shared/components/cta-section/cta-sec
         <div class="container">
           <app-section-title
             eyebrow="NUESTRO COMPROMISO"
-            title="Los Tres Pilares de Errante"
+            title="Los Tres Pilares de La Errante"
             subtitle="La excelencia en cada copa se apoya en una búsqueda incansable de la calidad."
           ></app-section-title>
 
@@ -424,7 +424,7 @@ export class AboutPageComponent implements OnInit {
   ];
 
   readonly defaultTestimonials = [
-    { quote: 'Contratamos a Errante para nuestra boda y fue sin duda el gran acierto de la noche. Los invitados siguen hablando del Espresso Martini y del servicio tan atento.', author: 'Elena & Gonzalo', event: 'Boda en Finca El Regajal (Aranjuez)' },
+    { quote: 'Contratamos a La Errante para nuestra boda y fue sin duda el gran acierto de la noche. Los invitados siguen hablando del Espresso Martini y del servicio tan atento.', author: 'Elena & Gonzalo', event: 'Boda en Finca El Regajal (Aranjuez)' },
     { quote: 'Impecable servicio para nuestro evento de lanzamiento anual con 400 directivos. Cero colas, cócteles de nivel estrella Michelin y un montaje visual espectacular.', author: 'Carlos Mendoza', event: 'Director de Marketing, Tech Summit' },
     { quote: 'La atención al detalle con el hielo tallado y los cócteles sin alcohol marcaron una diferencia enorme. Son auténticos profesionales del sector.', author: 'Beatriz Soler', event: 'Celebración Privada 40 Aniversario' }
   ];
@@ -432,7 +432,7 @@ export class AboutPageComponent implements OnInit {
   ngOnInit(): void {
     this.seoService.setSeoData({
       title: 'Sobre Nosotros & Filosofía de Coctelería de Autor',
-      description: 'Conoce al equipo de mixólogos de Errante. Nuestra filosofía de barras móviles para eventos basada en destilados premium, botánicos frescos y hielo tallado a mano.',
+      description: 'Conoce al equipo de mixólogos de La Errante. Nuestra filosofía de barras móviles para eventos basada en destilados premium, botánicos frescos y hielo tallado a mano.',
       keywords: 'equipo bartenders eventos, filosofia cocteleria, cocteleria artesanal bodas'
     });
   }

@@ -20,7 +20,7 @@ export class ContactService {
     const mockResponse: ContactSubmissionState = {
       status: 'success',
       referenceNumber: ref,
-      message: `¡Gracias por contactar con Errante, ${quote.name}! Hemos recibido tu solicitud para el ${quote.date}. Nuestro equipo de mixología revisará los detalles y te enviará una propuesta personalizada en menos de 24 horas.`
+      message: `¡Gracias por contactar con La Errante, ${quote.name}! Hemos recibido tu solicitud para el ${quote.date}. Nuestro equipo de mixología revisará los detalles y te enviará una propuesta personalizada en menos de 24 horas.`
     };
 
     return of(mockResponse).pipe(

@@ -19,7 +19,7 @@ export class SeoService {
   private readonly metaService = inject(Meta);
   private readonly document = inject(DOCUMENT);
 
-  private readonly siteName = 'Errante | Coctelería de Autor para Eventos';
+  private readonly siteName = 'La Errante | Coctelería de Autor para Eventos';
   private readonly defaultDescription = 'Servicio premium de coctelería para bodas, eventos corporativos y celebraciones privadas. Barras móviles de diseño, mixología de autor y hospitalidad exclusiva.';
   private readonly defaultImage = 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=80';
 
@@ -40,7 +40,7 @@ export class SeoService {
     }
 
     // Open Graph
-    this.metaService.updateTag({ property: 'og:site_name', content: 'Errante Coctelería' });
+    this.metaService.updateTag({ property: 'og:site_name', content: 'La Errante Coctelería' });
     this.metaService.updateTag({ property: 'og:title', content: fullTitle });
     this.metaService.updateTag({ property: 'og:description', content: desc });
     this.metaService.updateTag({ property: 'og:image', content: img });

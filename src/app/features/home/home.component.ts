@@ -26,7 +26,7 @@ import { CtaSectionComponent } from '../../shared/components/cta-section/cta-sec
   template: `
     <main class="home-page">
       <!-- 1. HERO SECTION -->
-      <section class="hero-section" aria-label="Introducción a Errante">
+      <section class="hero-section" aria-label="Introducción a La Errante">
         <div class="hero-bg-media">
           <img 
             src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=1920&q=85" 
@@ -233,13 +233,13 @@ import { CtaSectionComponent } from '../../shared/components/cta-section/cta-sec
       </section>
 
       <!-- 7. SOBRE NOSOTROS (FILOSOFÍA & EQUIPO) -->
-      <section class="section about-teaser-section" aria-label="Sobre el equipo de Errante">
+      <section class="section about-teaser-section" aria-label="Sobre el equipo de La Errante">
         <div class="container">
           <div class="about-grid">
             <div class="about-image-wrap">
               <img 
                 src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=1000&q=80" 
-                alt="Head Bartender de Errante preparando cócteles de autor" 
+                alt="Head Bartender de La Errante preparando cócteles de autor" 
                 class="about-img card-glass"
               />
               <div class="about-badge-floating card-glass">
@@ -249,7 +249,7 @@ import { CtaSectionComponent } from '../../shared/components/cta-section/cta-sec
             </div>
 
             <div class="about-text-content">
-              <span class="eyebrow-badge">FILOSOFÍA ERRANTE</span>
+              <span class="eyebrow-badge">FILOSOFÍA LA ERRANTE</span>
               <h2 class="about-heading">Pasión por el detalle en cada trago</h2>
               <p class="about-p">
                 Nacimos con la vocación de llevar la experiencia de las mejores coctelerías clandestinas del mundo a cualquier rincón: una finca rústica, una azotea en la ciudad, una nave industrial o el jardín de tu propia casa.
@@ -701,7 +701,7 @@ export class HomeComponent implements OnInit {
     this.seoService.setSchemaJsonLd({
       '@context': 'https://schema.org',
       '@type': 'LocalBusiness',
-      name: 'Errante Coctelería para Eventos',
+      name: 'La Errante Coctelería para Eventos',
       description: 'Servicio profesional de coctelería y barras móviles para eventos, bodas y empresas.',
       url: 'https://errante-cocktails.com',
       telephone: '+34910200300',
